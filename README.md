@@ -4,4 +4,4 @@ I'm Ashley. I've been programming things since I was just 4 years old, all the w
 
 You might be looking for my commercial work instead, at [Alien Internet Services](https://www.github.com/alieninternet/).
 
-Otherwise, there's not much to see here, because I usually only use this account to make pull requests.
+Beyond that, there's not much to see here, because I usually only use this account to make pull requests.
